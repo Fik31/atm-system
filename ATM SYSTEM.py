@@ -1,7 +1,7 @@
 import pymysql
 import random
 
-con = pymysql.connect(host='localhost', port=3306, database='atm', user='root', password='Fikrian_12')
+con = pymysql.connect(host='localhost', port=3306, database='atm', user='root', password='xxx')
 
 def line():
     print('*****************************************************************')
@@ -253,3 +253,4 @@ repeat()
 
 # Designed By : Fikrian Nur Abdullah 15220611
 #               Juli Martinus Zega   15220614
+# Universitas Bina Sarana Informatika Kramat 98 Jakarta
