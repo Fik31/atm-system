@@ -1,4 +1,4 @@
 # Atm System Using Python
 1st Semester University Project 
 
-_Basic Programming_ | _UBSI_
+_Basic Programming - UBSI_
